@@ -1,1 +1,1 @@
-This is a basic number converter between numbers of base 2 to base 36.
+This is a basic number converter between two numbers of any base from base 2 to base 36.
