@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Converter
+comment1.params=
+comment1.target=void\ test()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=number\ radix
+comment3.target=int\ toDecimal(java.lang.String,\ int)
+comment4.params=decimal\ radix
+comment4.target=java.lang.String\ fromDecimal(int,\ int)
+comment5.params=number\ initialRadix\ finalRadix
+comment5.target=java.lang.String\ convert(java.lang.String,\ int,\ int)
+numComments=6
